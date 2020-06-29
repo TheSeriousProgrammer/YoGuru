@@ -1,4 +1,4 @@
-# flutterapp1
+# YoGuru
 
 A new Flutter application.
 
